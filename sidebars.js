@@ -34,7 +34,7 @@ module.exports = {
       items: [
         'home',
         {
-          Solution:['solutions/dataset','solutions/connector','solutions/modal'],
+          Solution:['solutions/create-solution','solutions/delete-solution','solutions/dataset','solutions/connector','solutions/modal'],
         },
         'usermanagement',
         
